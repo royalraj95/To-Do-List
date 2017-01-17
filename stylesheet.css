@@ -6,6 +6,8 @@
 	box-shadow: 2px 2px 0px #ddd;
 	margin-top: 40px;
 	padding: 22px 6%;
+	background-color: #e6f2ff;
+	
 }
 
 
@@ -13,6 +15,7 @@
 {
 	width: 350px;
 	margin: 0 auto;
+
 }
 
 h1
@@ -22,8 +25,29 @@ h1
 	
 }
 
-.items {
+.items 
+{
 	margin: 0;
 	padding: 0;
 	list-style-type: none;
+	
+}
+
+.listfont
+{
+	font-size: 22px;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+
+.delete-button
+{
+	font-size: 10px;
+
+    border: 2px solid red;
+  
+}
+
+body
+{
+	background-color: #99ccff;
 }
